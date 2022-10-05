@@ -1,0 +1,15 @@
+C:\Users\Владимир\Desktop\Verification_Work\Verification_task\bin\Debug\net6.0\Verification_task.exe
+C:\Users\Владимир\Desktop\Verification_Work\Verification_task\bin\Debug\net6.0\Verification_task.deps.json
+C:\Users\Владимир\Desktop\Verification_Work\Verification_task\bin\Debug\net6.0\Verification_task.runtimeconfig.json
+C:\Users\Владимир\Desktop\Verification_Work\Verification_task\bin\Debug\net6.0\Verification_task.dll
+C:\Users\Владимир\Desktop\Verification_Work\Verification_task\bin\Debug\net6.0\Verification_task.pdb
+C:\Users\Владимир\Desktop\Verification_Work\Verification_task\obj\Debug\net6.0\Verification_task.csproj.AssemblyReference.cache
+C:\Users\Владимир\Desktop\Verification_Work\Verification_task\obj\Debug\net6.0\Verification_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владимир\Desktop\Verification_Work\Verification_task\obj\Debug\net6.0\Verification_task.AssemblyInfoInputs.cache
+C:\Users\Владимир\Desktop\Verification_Work\Verification_task\obj\Debug\net6.0\Verification_task.AssemblyInfo.cs
+C:\Users\Владимир\Desktop\Verification_Work\Verification_task\obj\Debug\net6.0\Verification_task.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\Desktop\Verification_Work\Verification_task\obj\Debug\net6.0\Verification_task.dll
+C:\Users\Владимир\Desktop\Verification_Work\Verification_task\obj\Debug\net6.0\refint\Verification_task.dll
+C:\Users\Владимир\Desktop\Verification_Work\Verification_task\obj\Debug\net6.0\Verification_task.pdb
+C:\Users\Владимир\Desktop\Verification_Work\Verification_task\obj\Debug\net6.0\Verification_task.genruntimeconfig.cache
+C:\Users\Владимир\Desktop\Verification_Work\Verification_task\obj\Debug\net6.0\ref\Verification_task.dll
